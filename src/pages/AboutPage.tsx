@@ -1,8 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { AwardIcon, BookOpenIcon, BriefcaseIcon, HeartIcon } from 'lucide-react';
-import Layout from '../../layout.js';  // Importe o Layout que você criou
-import { motion } from 'framer-motion';
+
 
 const AboutPage = () => {
   return (
